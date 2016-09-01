@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2016-09-01T21:34:59Z" finished-at="2016-09-01T21:34:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2016-09-01T21:34:59Z" finished-at="2016-09-01T21:34:59Z">
+      <class name="jenkinsdemotest.SuiteOne">
+        <test-method status="PASS" signature="set_up()[pri:0, instance:jenkinsdemotest.SuiteOne@61dc03ce]" name="set_up" is-config="true" duration-ms="6" started-at="2016-09-01T17:34:59Z" finished-at="2016-09-01T17:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="addTest()[pri:0, instance:jenkinsdemotest.SuiteOne@61dc03ce]" name="addTest" duration-ms="6" started-at="2016-09-01T17:34:59Z" finished-at="2016-09-01T17:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="mulTest()[pri:0, instance:jenkinsdemotest.SuiteOne@61dc03ce]" name="mulTest" duration-ms="1" started-at="2016-09-01T17:34:59Z" finished-at="2016-09-01T17:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+        <test-method status="PASS" signature="subTest()[pri:0, instance:jenkinsdemotest.SuiteOne@61dc03ce]" name="subTest" duration-ms="1" started-at="2016-09-01T17:34:59Z" finished-at="2016-09-01T17:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+      </class> <!-- jenkinsdemotest.SuiteOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
